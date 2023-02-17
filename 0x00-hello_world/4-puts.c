@@ -1,5 +1,5 @@
 #!/bin/bash
-#include <stido.h>
+#include <stdio.h>
 /**
  * main - Entry
  * return: Always 0
