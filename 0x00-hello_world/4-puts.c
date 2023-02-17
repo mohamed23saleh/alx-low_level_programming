@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stido.h>
 /**
  * main - Entry
